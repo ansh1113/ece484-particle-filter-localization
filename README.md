@@ -54,7 +54,7 @@ This project implements **Monte Carlo Localization (MCL)** - a particle filter-b
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 ```
 ┌─────────────────┐
 │ Gazebo Simulator│
@@ -111,7 +111,7 @@ This project implements **Monte Carlo Localization (MCL)** - a particle filter-b
 
 ---
 
-## 🔬 Algorithm Details
+## Algorithm Details
 
 ### Monte Carlo Localization Algorithm
 
@@ -257,7 +257,7 @@ source install/setup.bash
 
 ---
 
-## 💻 Usage
+## Usage
 
 ### Quick Start
 
@@ -328,7 +328,7 @@ python3 main.py --particles 1500 \
 
 ---
 
-## 📊 Experimental Results
+## Experimental Results
 
 ### Experiment 1: Effect of Particle Count
 
@@ -394,7 +394,7 @@ python3 main.py --particles 1500 \
 
 ---
 
-## 🎥 Demo Videos
+## Demo Videos
 
 **Video Links**: [Google Drive - MP3 Demos](https://drive.google.com/drive/folders/1tji1z8HDMwo6BdeU8uxJp2NpQ15aoZ15)
 
@@ -411,23 +411,12 @@ The turtle graphics window shows:
 
 ---
 
-## 📚 Course Context
+## Course Context
 
 **Course**: ECE 484 - Principles of Safe Autonomy  
 **Institution**: University of Illinois Urbana-Champaign  
 **Semester**: Fall 2025  
-**Project Type**: Machine Problem 3 (Group Project)  
-**Team**: Autoshield
-
----
-
-## 👥 Team
-
-**Team Autoshield**
-- Ansh Bhansali - anshb3@illinois.edu
-- Het Patel - hcp4@illinois.edu
-- Sunny Deshpande - sunnynd2@illinois.edu
-- Keisuke Ogawa - ogawa3@illinois.edu
+**Project Type**: Machine Problem 3 
 
 ---
 
@@ -498,7 +487,7 @@ This prevents convergence to local minima and maintains particle diversity.
 
 ---
 
-## 📖 Academic Integrity Statement
+## Academic Integrity Statement
 
 This repository contains coursework from ECE 484 - Principles of Safe Autonomy at UIUC.  
 Shared for portfolio and educational purposes after course completion.
@@ -512,13 +501,13 @@ Violations of academic integrity policies will be reported.
 
 ---
 
-## 📝 License
+## License
 
 MIT License - See [LICENSE](LICENSE) for details
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - ECE 484 course staff for infrastructure and guidance
 - UIUC Robotics Lab for Gazebo ECEB environment
@@ -526,7 +515,7 @@ MIT License - See [LICENSE](LICENSE) for details
 
 ---
 
-## 📞 Contact
+## Contact
 
 For questions about this implementation:
 - **Ansh Bhansali**: anshbhansali5@gmail.com
