@@ -7,7 +7,7 @@
 
 **Particle filter-based robot localization using LiDAR in GPS-denied environments - UIUC ECE 484 Safe Autonomy**
 
-## 🎯 Key Results
+## Key Results
 
 - ✅ **Sub-meter Accuracy** - Average localization error < 0.5m after convergence
 - ✅ **Fast Convergence** - Particles converge within 50-100 iterations
@@ -17,7 +17,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [System Architecture](#system-architecture)
@@ -210,7 +210,7 @@ heading_cos = sum(cos(p.θ) * p.weight for p in particles)
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 ```bash
@@ -420,7 +420,7 @@ The turtle graphics window shows:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 ece484-particle-filter-localization/
 ├── particle_filter.py       # Main MCL implementation
@@ -438,7 +438,7 @@ ece484-particle-filter-localization/
 
 ---
 
-## 🛠️ Technical Implementation Highlights
+## Technical Implementation Highlights
 
 ### Sensor Model (8-Direction Ray-Casting)
 ```python
